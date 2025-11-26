@@ -1,5 +1,8 @@
-*.exe
 *.obj
-*.o
-Generador/generador.exe
-Generador/generador_placas.obj
+*.lib
+*.exp
+*.pyd
+*_wrap.cxx
+LibreriaServer/Compilando
+LibreriaServer/Ejecutando
+LibreriaServer/Enlazando
