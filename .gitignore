@@ -1,0 +1,5 @@
+*.exe
+*.obj
+*.o
+Generador/generador.exe
+Generador/generador_placas.obj
